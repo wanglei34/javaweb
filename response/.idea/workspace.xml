@@ -10,35 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f471118-7c64-4bf3-a769-1a2ae529efd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../03-servlet/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/web/images/三国演义.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/web/images/红楼梦.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/web/images/西游记.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework01/homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/response.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/web/response/ResponseDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/web/response/ResponseDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/response-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/response-1.0-SNAPSHOT/WEB-INF/classes/com/web/response/ResponseDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/response-1.0-SNAPSHOT/WEB-INF/classes/com/web/response/ResponseDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/response-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/response-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-web-learning/bookonline/bookonline.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-web-learning/day02-request/day02-request.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-web-learning/day03-response/day03-response.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-web-learning/homework/homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-web-learning/java-web-learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-web-learning/quickstart/quickstart.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-基础加强" beforeDir="false" afterPath="$PROJECT_DIR$/../01-基础加强" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-servlet/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03-servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-servlet/target/myservlet-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03-servlet/target/myservlet-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-web-dev/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-web-dev/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-web-dev/book-online/book-online.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-web-dev/book-online/book-online.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-web-dev/book-online/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-web-dev/book-online/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java-web-dev/book-online/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../java-web-dev/book-online/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +217,7 @@
       <workItem from="1645750259145" duration="4548000" />
       <workItem from="1645755003724" duration="21457000" />
       <workItem from="1645860040047" duration="995000" />
-      <workItem from="1645861128896" duration="292000" />
+      <workItem from="1645861128896" duration="2045000" />
     </task>
     <servers />
   </component>
